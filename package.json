@@ -1,0 +1,22 @@
+{
+  "name": "playwrightunosquare",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000o\u0000o\u0000t\u0000c\u0000a\u0000m\u0000p\u0000U\u0000n\u0000o\u0000s\u0000q\u0000u\u0000a\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffSalcedo17/playwrightUnosquare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffSalcedo17/playwrightUnosquare/issues"
+  },
+  "homepage": "https://github.com/JeffSalcedo17/playwrightUnosquare#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  }
+}
